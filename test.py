@@ -1,5 +1,5 @@
 def printHello():
     print("Hello " + name)
 
-name = "etstVadiman!@"
+name = "Vadiman"  # ← Конфликтующее изменение!
 printHello()
