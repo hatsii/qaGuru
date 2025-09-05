@@ -1,5 +1,5 @@
 def printHello():
     print("Hello " + name)
 
-name = "Vadim"  
+name = "Vadim"
 printHello()
